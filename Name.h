@@ -7,4 +7,6 @@
 
 #include <framework/system/AutoName.h>
 
+#define ENVIRON_HTTP_PORT   "TRIP_HTTP_PORT"
+
 #endif // _TRIP_WORKER_NAME_H_

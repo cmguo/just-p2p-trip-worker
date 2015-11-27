@@ -5,7 +5,7 @@
 
 #define VERSION 1.0.0
 
-#define NAME worker
+#define NAME trip_worker
 
 #define BEGIN_NAME_SPACE namespace trip { namespace worker {
 

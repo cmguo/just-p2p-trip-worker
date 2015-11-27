@@ -32,7 +32,7 @@ namespace trip
 
 int main(int argc, char * argv[])
 {
-    util::daemon::Daemon my_daemon("worker.conf");
+    util::daemon::Daemon my_daemon("trip_worker.conf");
     char const * default_argv[] = {
         "++framework::logger::Stream.0.file=$LOG/trip_worker.log", 
         "++framework::logger::Stream.0.append=true", 
