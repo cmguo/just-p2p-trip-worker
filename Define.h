@@ -3,6 +3,8 @@
 #ifndef _TRIP_WORKER_DEFINE_H_
 #define _TRIP_WORKER_DEFINE_H_
 
+#define VERSION_MAJOR 1
+
 #define VERSION 1.0.0
 
 #define NAME trip_worker
